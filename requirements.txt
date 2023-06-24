@@ -7,7 +7,7 @@ optax==0.1.2
 numpy==1.22.4
 sentencepiece>=0.1.96
 seqio==0.0.7
-protobuf==3.9.2
+protobuf==3.12.2
 tensorflow==2.9.1
 tensorflow-datasets==4.5.2
 
